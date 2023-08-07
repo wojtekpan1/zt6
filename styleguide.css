@@ -1,0 +1,157 @@
+:root { 
+  --black: #000000;
+  --colorsbackgroundprimary: #ffffff;
+  --colorsfontprimary: #0d1a26;
+  --componentsbuttonbordercolor: #aeb3b7;
+  --componentsbuttoncolor: #0d1a26;
+  --componentsbuttonprimarycolor: #ffffff;
+  --componentsfieldcontrolbordercolor: #aeb3b7;
+  --componentsfieldcontroldisabledbordercolor: transparent;
+  --componentsfieldcontrolplaceholdercolor: #808080;
+  --componentsradiobuttonbackgroundcolor: #ffffff;
+  --componentsradiobuttonbordercolor: #aeb3b7;
+  --componentsradiobuttondisabledbackgroundcolor: #ffffff;
+  --electric-violet: #7000ff;
+  --electric-violet-2: #7000ff2b;
+  --fog: #e7d4ff;
+  --grayscaleblack: #000000;
+  --grayscalewhite: #ffffff;
+ 
+  --font-size-32px: 32px;
+  --font-size-l: 16px;
+  --font-size-m: 14px;
+  --font-size-s: 12px;
+  --font-size-xl: 18px;
+  --font-size-xxl: 20px;
+  --font-size-xxxl: 24px;
+  --font-size-xxxxl: 48px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+}
+.inputdefault {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.buttonlarge {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+}
+
+.headingh3 {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.headingh6 {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.labellarge {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.labeldefault {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.buttondefault {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.64px;
+}
+
+.xl {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.xxl {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-32px);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.componentsbuttonsmall {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.componentsbuttonlarge {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.inter-bold-electric-violet-24px {
+  color: var(--electric-violet);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-electric-violet-12px {
+  color: var(--electric-violet);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-white-28px {
+  color: var(--colorsbackgroundprimary);
+  font-family: var(--font-family-inter);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}

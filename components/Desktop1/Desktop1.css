@@ -1,0 +1,307 @@
+.desktop-1-1 {
+  align-items: center;
+  background-color: var(--colorsbackgroundprimary);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.overlap-group2-1 {
+  align-items: flex-start;
+  background-color: var(--electric-violet);
+  display: flex;
+  gap: 459px;
+  height: 92px;
+  justify-content: flex-end;
+  margin-top: 29px;
+  min-width: 1440px;
+  padding: 15px 59px;
+  z-index: 6;
+}
+
+.act-logo-white-svg-1 {
+  align-self: center;
+  background-size: 100% 100%;
+  height: 47px;
+  margin-bottom: 1.0px;
+  width: 341px;
+}
+
+.title-1 {
+  color: var(--colorsbackgroundprimary);
+  font-weight: 700;
+  line-height: 56px;
+  white-space: nowrap;
+}
+
+.line-1-1 {
+  height: 9px;
+  left: 0;
+  position: fixed;
+  top: 141px;
+  width: 1440px;
+  z-index: 7;
+}
+
+.flex-row-2 {
+  align-items: flex-end;
+  display: flex;
+  gap: 565px;
+  margin-right: 25.0px;
+  margin-top: 71px;
+  min-width: 1141px;
+  z-index: 2;
+}
+
+.overlap-group3-1 {
+  align-items: flex-end;
+  background-color: var(--electric-violet);
+  display: flex;
+  height: 45px;
+  min-width: 471px;
+  padding: 6px 0;
+}
+
+.symptom-capture-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 30px;
+  text-align: center;
+  width: 471px;
+}
+
+.a-o-o-a-o-o-a-1 {
+  color: var(--electric-violet);
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 3px;
+  min-width: 105px;
+  white-space: nowrap;
+}
+
+.flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  margin-right: 108.0px;
+  margin-top: 26px;
+  min-width: 1052px;
+  z-index: 4;
+}
+
+.choose-condition-1 {
+  letter-spacing: 0.24px;
+  line-height: 24px;
+  min-width: 259px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.x2-answer-questions-1 {
+  letter-spacing: 0.24px;
+  line-height: 24px;
+  margin-left: 125px;
+  min-width: 256px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.x3-see-auto-summary-1 {
+  letter-spacing: 0.24px;
+  line-height: 24px;
+  margin-left: 142px;
+  min-width: 270px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.overlap-group-container-1 {
+  height: 553px;
+  margin-right: 12.0px;
+  margin-top: 6px;
+  position: relative;
+  width: 1154px;
+  z-index: 1;
+}
+
+.overlap-group1-1 {
+  align-items: flex-end;
+  border: 3px solid;
+  border-color: var(--electric-violet);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  left: 770px;
+  min-height: 391px;
+  padding: 12px 13px;
+  position: absolute;
+  top: 0;
+  width: 384px;
+}
+
+.address-1 {
+  align-self: center;
+  background-color: var(--componentsfieldcontroldisabledbordercolor);
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 1px;
+  min-height: 287px;
+  width: 356px;
+}
+
+.button-container-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 11px;
+  height: 31px;
+  min-width: 190px;
+  position: relative;
+}
+
+.overlap-group-1 {
+  height: 553px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1153px;
+}
+
+.consider-1 {
+  background-color: var(--componentsfieldcontroldisabledbordercolor);
+  left: 382px;
+  letter-spacing: 0.24px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 412px;
+  white-space: nowrap;
+}
+
+.rectangle-3-1 {
+  border: 3px solid;
+  border-color: var(--electric-violet);
+  border-radius: 20px;
+  height: 551px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.rectangle-4-1 {
+  background-color: var(--fog);
+  border: 3px solid;
+  border-color: var(--electric-violet);
+  border-radius: 20px;
+  height: 391px;
+  left: 360px;
+  position: absolute;
+  top: 0;
+  width: 388px;
+}
+
+.rectangle-10-1 {
+  border: 3px solid;
+  border-color: var(--electric-violet);
+  border-radius: 20px;
+  height: 149px;
+  left: 360px;
+  position: absolute;
+  top: 403px;
+  width: 793px;
+}
+
+.rectangle-11-1 {
+  background-color: var(--electric-violet-2);
+  height: 25px;
+  left: 21px;
+  position: absolute;
+  top: 199px;
+  width: 300px;
+}
+
+.onset-duration-and-1 {
+  background-color: var(--componentsfieldcontroldisabledbordercolor);
+  color: var(--black);
+  font-weight: 400;
+  left: 394px;
+  line-height: 24px;
+  position: absolute;
+  top: 22px;
+  width: 338px;
+}
+
+.span-3 {
+  font-weight: 700;
+}
+
+.consider-scheduling-1 {
+  background-color: var(--componentsfieldcontroldisabledbordercolor);
+  color: var(--black);
+  font-weight: 400;
+  left: 382px;
+  line-height: 24px;
+  position: absolute;
+  top: 438px;
+  width: 750px;
+}
+
+.do-you-want-to-share-1 {
+  left: 382px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 513px;
+  width: 421px;
+}
+
+.shoulder-pain-34038-1 {
+  background-color: var(--componentsfieldcontroldisabledbordercolor);
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 149px;
+  width: 356px;
+}
+
+.look-by-symptom-cate-1 {
+  background-color: var(--componentsfieldcontroldisabledbordercolor);
+  color: var(--black);
+  font-weight: 700;
+  left: 28px;
+  line-height: 24px;
+  position: absolute;
+  top: 101px;
+  width: 356px;
+}
+
+.overlap-group4 {
+  align-items: flex-end;
+  border: 2px solid;
+  border-color: var(--electric-violet);
+  border-radius: 20px;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-right: 11.0px;
+  margin-top: 9px;
+  min-width: 1155px;
+  padding: 3px 14px;
+  z-index: 3;
+}
+
+.please-note-catalys-1 {
+  background-color: var(--componentsfieldcontroldisabledbordercolor);
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-height: 81px;
+  width: 1122px;
+}
+

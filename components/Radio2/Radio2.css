@@ -1,0 +1,29 @@
+.radio-2 {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.border {
+  background-color: var(--electric-violet);
+  border: 2px solid;
+  border-radius: 16px;
+  height: 20px;
+  width: 20px;
+}
+
+.radio-2.radio-3 {
+  margin-right: -7.00px;
+}
+
+.radio-2.radio-4 {
+  min-width: 16px;
+  width: unset;
+}
+
+.radio-2.radio-5 {
+  margin-right: -7.00px;
+  min-width: 16px;
+  width: unset;
+}
+

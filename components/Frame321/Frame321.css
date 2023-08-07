@@ -1,0 +1,39 @@
+.frame-321 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 32px;
+  justify-content: flex-end;
+  margin-bottom: -22.00px;
+  margin-top: -22.00px;
+  position: relative;
+}
+
+.icon {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.image {
+  height: 45px;
+  object-fit: cover;
+  position: relative;
+  width: 45px;
+}
+
+.frame-321.frame-321-1 {
+  flex-grow: unset;
+}
+
+.frame-321.frame-321-1 .icon {
+  min-width: 24px;
+  width: unset;
+}
+
+.frame-321.frame-321-1 .image {
+  min-width: 45px;
+  width: unset;
+}
+

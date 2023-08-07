@@ -1,0 +1,11 @@
+.act-logo-white-transparent {
+  align-self: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 44px;
+  margin-left: -760px;
+  margin-top: -910px;
+  width: 322px;
+  z-index: 5;
+}
+

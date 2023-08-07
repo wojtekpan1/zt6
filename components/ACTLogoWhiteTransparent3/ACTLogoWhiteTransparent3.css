@@ -1,0 +1,18 @@
+.act-logo-white-transparent-1 {
+  align-items: flex-end;
+  align-self: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 77px;
+  margin-top: -73px;
+  min-width: 322px;
+  z-index: 5;
+}
+
+.act-logo-white-transparent-2 {
+  height: 44px;
+  margin-bottom: -585px;
+  object-fit: cover;
+  width: 322px;
+}
+

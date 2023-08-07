@@ -1,0 +1,35 @@
+.radio-13 {
+  align-items: center;
+  display: flex;
+  gap: 58px;
+  left: 384px;
+  padding: 0px 12px;
+  position: absolute;
+  top: 107px;
+  width: 323px;
+}
+
+.label-position-start-6 {
+  color: var(--colorsfontprimary);
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.radio-13.radio-14,
+.radio-13.radio-16 {
+  gap: 54px;
+  height: 32px;
+  top: 137px;
+  width: 289px;
+}
+
+.radio-13.radio-14 .label-position-start-6,
+.radio-13.radio-16 .label-position-start-6 {
+  margin-top: unset;
+}
+

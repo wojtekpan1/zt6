@@ -1,0 +1,22 @@
+.radio {
+  align-items: center;
+  display: flex;
+  gap: 50px;
+  left: 384px;
+  padding: 0px 12px;
+  position: absolute;
+  top: 77px;
+  width: 289px;
+}
+
+.label-position-start {
+  color: var(--colorsfontprimary);
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+

@@ -1,0 +1,72 @@
+.nav-bar {
+  align-items: center;
+  background-color: var(--colorsbackgroundprimary);
+  display: flex;
+  gap: 20px;
+  height: 49px;
+  justify-content: center;
+  left: 77px;
+  padding: 24px 32px;
+  position: fixed;
+  top: 92px;
+  width: 1336px;
+  z-index: 8;
+}
+
+.navbar {
+  align-items: center;
+  display: flex;
+  gap: 40px;
+  margin-bottom: -11.50px;
+  margin-top: -11.50px;
+  padding: 0px 5px 0px 25px;
+  position: relative;
+  width: 633.5px;
+}
+
+.navbar-link-dashboard {
+  cursor: pointer;
+  letter-spacing: 0.24px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.navbar-link-jobs {
+  background-color: var(--componentsfieldcontroldisabledbordercolor);
+  letter-spacing: 0.24px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.navbar-link-reports {
+  background-color: var(--componentsfieldcontroldisabledbordercolor);
+  letter-spacing: 0.24px;
+  line-height: 24px;
+  margin-right: -215.50px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.navbar-link-facilities {
+  background-color: var(--componentsfieldcontroldisabledbordercolor);
+  letter-spacing: 0.24px;
+  line-height: 24px;
+  margin-right: -386.50px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.nav-bar.nav-bar-1 .navbar-link-dashboard {
+  cursor: unset;
+}
+

@@ -1,0 +1,41 @@
+.frame-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  min-width: 1440px;
+}
+
+.desktop-1 {
+  align-items: flex-start;
+  background-color: var(--colorsbackgroundprimary);
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  padding: 99px 115px;
+  width: 1440px;
+}
+
+.rectangle-1 {
+  background-color: #d9d9d9;
+  height: 174px;
+  width: 540px;
+}
+
+.title {
+  background-color: var(--componentsfieldcontroldisabledbordercolor);
+  color: var(--black);
+  cursor: pointer;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 187px;
+  margin-top: 96px;
+  min-height: 39px;
+}
+
+.slice-1 {
+  height: 309px;
+  margin-left: 33px;
+  margin-top: 33px;
+  width: 538px;
+}
+

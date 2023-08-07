@@ -1,0 +1,64 @@
+.search-field {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4px;
+  left: 21px;
+  position: absolute;
+  top: 17px;
+}
+
+.label {
+  align-self: stretch;
+  background-color: var(--componentsfieldcontroldisabledbordercolor);
+  color: var(--black);
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.input-group {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.input {
+  align-items: center;
+  align-self: stretch;
+  border: 1px solid;
+  border-color: var(--componentsbuttonbordercolor);
+  border-radius: 4px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 0px 0px 12px;
+  position: relative;
+  width: 100%;
+}
+
+.placeholder {
+  color: var(--componentsfieldcontrolplaceholdercolor);
+  flex: 1;
+  font-weight: 400;
+  line-height: 20px;
+  position: relative;
+}
+
+.search-field.search-field-1 {
+  display: flex;
+  width: 199px;
+}
+
+.search-field.search-field-1 .input-group,
+.search-field.search-field-1 .input {
+  flex: unset;
+  width: unset;
+}
+

@@ -1,0 +1,30 @@
+.button-5 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--componentsbuttonbordercolor);
+  border-radius: 0px 4px 4px 0px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 8px 16px;
+  position: relative;
+}
+
+.button-icon {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.button-5.button-6 {
+  display: flex;
+  flex: unset;
+  width: fit-content;
+}
+
+.button-5.button-6 .button-icon {
+  min-width: 16px;
+  width: unset;
+}
+

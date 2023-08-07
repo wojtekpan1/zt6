@@ -1,0 +1,21 @@
+.radio-6 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  left: 805px;
+  padding: 0px 12px;
+  position: absolute;
+  top: 511px;
+  width: 65px;
+}
+
+.label-position-start-2 {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
